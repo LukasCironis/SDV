@@ -45,7 +45,7 @@ tests_require = [
 development_requires = [
     # general
     'bumpversion>=0.5.3,<0.6',
-    'pip>=9.0.1',
+    #'pip>=9.0.1',
     'watchdog>=0.8.3,<0.9',
 
     # docs
